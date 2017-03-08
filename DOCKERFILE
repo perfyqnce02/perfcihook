@@ -1,0 +1,5 @@
+FROM hub.c.163.com/public/php:5.5
+
+COPY ./  /abc/zxt
+
+WORKDIR /abc/zxt
