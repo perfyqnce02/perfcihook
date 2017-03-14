@@ -1,4 +1,4 @@
-FROM hub.c.163.com/public/php:5.5
+FROM hub.c.163.com/library/busybox:latest
 
 COPY ./  /abc/zxt
 
